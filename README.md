@@ -1,6 +1,6 @@
 # 👨‍💻 Miquel Olavarria
 
-## English
+## 🇬🇧 English
 
 ### About Me
 I'm a passionate Blockchain Engineering Master Student with a strong enthusiasm for technology. Currently diving into the world of Distributed Ledger Technology (DLT) and excited about its potential to change the world.
@@ -22,7 +22,7 @@ I'm a passionate Blockchain Engineering Master Student with a strong enthusiasm 
 
 ---
 
-## Español
+## 🇪🇸 Español
 
 ### Sobre Mí
 Soy un apasionado estudiante de un máster en Ingeniería Blockchain con un fuerte entusiasmo por la tecnología. Actualmente estoy explorando el mundo de la Tecnología de Libro Mayor Distribuido (DLT) y me emociona su potencial para cambiar el mundo.
